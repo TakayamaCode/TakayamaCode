@@ -1,36 +1,33 @@
-<h1 align="center">Brayan | Sysadmin → DevOps → Cybersecurity</h1>
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Brayan+%F0%9F%91%8B;Junior+Sysadmin+in+Progress;Future+DevOps+Engineer;Linux+%7C+Networking+%7C+Automation;Cybersecurity+Fundamentals;Always+Learning+and+Improving" alt="Headline" />
+</div>
+
 
 <p align="center">
-  <i>"Automating processes, building systems and securing infrastructure."</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2300FF00&background=%23000000&size=22&center=true&vCenter=true&width=750&height=100&lines=Junior+Sysadmin+in+Progress;Future+DevOps+Engineer;Linux,+Networking+and+Automation;Cybersecurity+Fundamentals;Focused+on+Real+World+Skills;Continuous+Improvement">
-  </a>
+  <i>"Si puedes imaginarlo, puedes programarlo. — Alejandro Taboada."</i>
 </p>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21hamN0M2p3NmRicWpyeHk5ZGU5OW9wdHhhNWs5Y2w2ZTJkZTFxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="200" align="right">
 
----
-
 ### 🚀 Current Focus
 
-- Building strong foundations in Linux and system administration  
-- Learning networking, automation and infrastructure management  
-- Transitioning from Service Desk (L1) to Sysadmin  
-- Long-term goal: DevOps & Cybersecurity  
+- 🐧 Building strong foundations in Linux & system administration  
+- 🌐 Learning networking, automation & infrastructure management  
+- 🔄 Transitioning from Service Desk (L1) → Sysadmin  
+- 🔐 Exploring cybersecurity fundamentals & system hardening  
+- ⚙️ Developing a mindset focused on real-world problem solving  
 
 ---
 
-### 📌 Main Project
+### 🧪 Active Lab (Hands-on Practice)
 
-Developing a **local finance management system**:
+👷‍♂️Building and maintaining a personal lab environment 💻
 
-- PHP + MySQL  
-- CRUD architecture  
-- Payment tracking and debt control  
-- Scalable structure for future improvements  
+- 🖥️ Linux server setup (local / virtualized environments)  
+- 🌍 Web server deployment with Nginx  
+- 🔑 Secure remote access with SSH  
+- 📜 Bash scripting for automation tasks  
+- 📊 System monitoring & log analysis  
 
 <br clear="both">
 
