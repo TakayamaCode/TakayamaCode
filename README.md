@@ -11,8 +11,6 @@
 
 ---
 
-
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21hamN0M2p3NmRicWpyeHk5ZGU5OW9wdHhhNWs5Y2w2ZTJkZTFxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="200" align="right">
 
 ### 👨‍💻 About Me
@@ -117,3 +115,17 @@ My goal is to grow into DevOps and Cybersecurity, with a strong foundation in in
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40"/>
 </div>
+
+### 🧪 Featured Projects / Lab Work
+
+- 🖥️ Linux Server Lab *(in progress)*  
+  → Server setup, SSH configuration and Nginx deployment  
+  🔗 Coming soon  
+
+- 🌐 Nginx Reverse Proxy *(planned)*  
+  → Reverse proxy configuration and traffic routing  
+  🔗 Coming soon  
+
+- 📜 Bash Automation Scripts *(planned)*  
+  → Task automation using Bash scripting  
+  🔗 Coming soon  
