@@ -11,9 +11,21 @@
 
 ---
 
-<br clear="both">
+
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21hamN0M2p3NmRicWpyeHk5ZGU5OW9wdHhhNWs5Y2w2ZTJkZTFxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="200" align="right">
+
+### 👨‍💻 About Me
+
+I'm Brayan. I currently work as a Service Desk (L1), but I'm not planning to stay there for long.  
+
+I'm focused on leveling up into system administration, building real skills with Linux, servers and automation instead of just consuming theory.  
+
+Lately I've been spending my time setting up environments,  and understanding how systems actually work behind the scenes.  
+
+My goal is to grow into DevOps and Cybersecurity, with a strong foundation in infrastructure and a mindset built around solving real problems.
+
+---
 
 ### 🚀 Current Focus
 
